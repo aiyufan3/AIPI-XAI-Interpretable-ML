@@ -1,5 +1,5 @@
 # AIPI-XAI-Interpretable-ML
-# Telecom Customer Churn Prediction Using Interpretable Models
+## Telecom Customer Churn Prediction Using Interpretable Models
 
 This project aims to predict customer churn for a telecommunications company using **interpretable machine learning models**. The goal is to help the company understand which factors contribute to customer churn and provide actionable insights for customer retention. 
 
